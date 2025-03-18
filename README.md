@@ -7,4 +7,7 @@ EF Core (Object-Relational Mapping - ORM)
 Model Builders & Relationships
 Error Handling in .NET 8-try & catch
 Entity creation
-
+Used Interfaces like i enumerable,icollection
+managed asynchronouse operation (async,Task)
+Dependency injection design pattern,
+LINQ-language integration queries
